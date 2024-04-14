@@ -91,7 +91,7 @@ Another limitation of the model is that it would likely only work well for listi
 # Future Directions
 Going forward, maintaining this model would require regularly checking its performance on new data, and adjusting the model when its performance starts to decline. Since the real estate market changes regularly, and sometimes quickly, checking to make sure the model is able to perform well based on the most recent real estate sales data would ensure that it remains up to date.
 Some future directions that I would like to explore with this model include building separate models for different property types to explore how the models would be different (As I imagine that the features used to predict condo prices would be different than the features used for predicting the price of a farm). 
-Another area that I would like to explore more is how specific a model I can build before it starts to underperform. Would a model for each zip code work better than the local model? Or even a model for specific neighborhoods or developments? Essentially, how specific 
+Another area that I would like to explore more is how specific a model I can build before it starts to underperform. Would a model for each zip code work better than the local model? Or even a model for specific neighborhoods or developments? Essentially, how specific would the best performing model be, and are there scenarios where using less specific models would be detrimental?
 
 
 
