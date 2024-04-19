@@ -95,4 +95,9 @@ Another area that I would like to explore more is how specific a model I can bui
 
 
 
+# Reccomendations
+- Increase size of sample for regional model so the amt of data per city is closer to the sample size for the local model
+- try removing some of the more highly correlated features
+- try using combinations of variables
+
 
